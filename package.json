@@ -1,0 +1,17 @@
+{
+  "name": "truffle-zeppelin-seed",
+  "version": "1.0.0",
+  "description": "Seed for a new Solidity + Truffle + OpenZeppelin project",
+  "main": "index.js",
+  "repository": "git@github.com:troggy/truffle-zeppelin-seed.git",
+  "author": "Kosta Korenkov <kosta@whoot.me>",
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "^1.9.0"
+  },
+  "devDependencies": {
+    "dotenv": "^5.0.1",
+    "truffle": "^4.1.7",
+    "truffle-privatekey-provider": "^0.0.6"
+  }
+}
